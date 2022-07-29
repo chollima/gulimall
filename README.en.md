@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The gulimall project is a set of B2C e-commerce projects, including the front-end mall system and the back-end management system. It is implemented based on SpringCloud + SpringCloudAlibaba + MyBatis-Plus and is deployed in Docker containers. The front-end mall system includes: user login, registration, product search, product details, shopping cart, order process, spike activity and other modules. The background management system includes seven modules: system management, commodity system, preferential marketing, inventory system, order system, user system, and content management.
+The gulimall project is a set of B2C e-commerce projects, including the front-end mall system and the back-end management system. The front-end is developed based on Vue and ElementUI, while the back-end is developed based on SpringBoot, SpringCloudAlibaba and MyBatis-Plus. It is also deployed in Docker containers. The front-end mall system includes: user login, registration, product search, product details, shopping cart, order process, spike activity and other modules. The background management system includes seven modules: system management, commodity system, preferential marketing, inventory system, order system, user system, and content management.
 
 ### Project Architecture
 
